@@ -7,7 +7,7 @@ Türkçe altyazıyı ekranda gösterir; OBS kaydında da görünür.
 
 ## İndir
 
-**[⬇ DublajMiBu_Kurulum.zip](https://github.com/dublajmibu/DublajMiBu/releases/latest/download/DublajMiBu_Kurulum.zip)**
+**[⬇ DublajMiBu_Kurulum.zip](https://github.com/hdemircs92-tech/DublajMiBu-/releases/latest/download/DublajMiBu_Kurulum.zip)**
 
 1. Zip'e sağ tıkla → **Tümünü ayıkla**
 2. **KURULUM.bat**'a çift tıkla (Python, Tesseract ve sesleri kendisi kurar)
